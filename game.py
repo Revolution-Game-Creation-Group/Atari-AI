@@ -1,10 +1,8 @@
-# Baby Advantage Actor-Critic | Sam Greydanus | October 2017 | MIT License
-
 from __future__ import print_function
 import torch, os, gym, time, glob, argparse, sys
 import numpy as np
 from scipy.signal import lfilter
-from scipy.misc import imresize # preserves single-pixel info _unlike_ img = img[::2,::2]
+from scipy.misc import imresize
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.multiprocessing as mp
