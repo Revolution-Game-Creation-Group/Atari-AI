@@ -50,7 +50,7 @@ For eg.
 python game.py --env Breakout-v0
 ```
 
-**Note: The list of possible games can be found [here](https://gym.openai.com/envs/#atari) **
+** Note: The list of possible games can be found [here](https://gym.openai.com/envs/#atari) **
 
 
 # G00D LUCK
