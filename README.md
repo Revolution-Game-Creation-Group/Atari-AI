@@ -16,7 +16,8 @@ For more info go [here](https://www.freecodecamp.org/news/an-intro-to-advantage-
 ## Instsallation
 Download the entire repositry, pre-trained models are included for SpaceInvaders, Breakout and Pong.
 To check list of all possible arguments run
-'''
+
+```
 ML~ python game.py --help
 
 usage: game.py [-h] [--env ENV] [--processes PROCESSES] [--render RENDER]
@@ -40,4 +41,4 @@ optional arguments:
   --horizon HORIZON     horizon for running averages
   --hidden HIDDEN       hidden size of GRU
 
-'''
+```
