@@ -1,7 +1,11 @@
 # Atari-AI
 Teach AI to Play Arcade Games in the Atari Gym
 
-![](assets/spacegif.gif)![](assets/ponggif.gif)
+[](assets/spacegif.gif)![](assets/ponggif.gif)
+
+<p align="center">
+<img src="https://github.com/crypto-code/Atari-AI/blob/master/assets/spacegif.gif" height="200" align="middle" /> 
+<img src="https://github.com/crypto-code/Atari-AI/blob/master/assets/spacegif.gif" height="200" align="middle" /> </p>
 
 
 ## Actor Critic Neural Network
