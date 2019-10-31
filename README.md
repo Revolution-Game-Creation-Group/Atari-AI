@@ -13,8 +13,10 @@ It is a method that uses two neural networks to optimize performance. The Actor 
 
 For more info go [here](https://www.freecodecamp.org/news/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d/).
 
+
 ## Instsallation
 Download the entire repositry, pre-trained models are included for SpaceInvaders, Breakout and Pong.
+
 To check list of all possible arguments run
 
 ```
