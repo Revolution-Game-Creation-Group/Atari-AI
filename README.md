@@ -27,7 +27,7 @@ usage: game.py [-h] [--env ENV] [--processes PROCESSES] [--render RENDER]
 
 optional arguments:
   -h, --help            show this help message and exit
-  --env ENV             gym environment
+  --env ENV             gym environment default:SpaceInvaders-v0
   --processes PROCESSES
                         number of processes to train with
   --render RENDER       renders the atari environment
@@ -42,3 +42,16 @@ optional arguments:
   --hidden HIDDEN       hidden size of GRU
 
 ```
+
+For eg.
+```
+python game.py --env Breakout-v0
+```
+
+**Note: The list of possible games can be found [here](https://gym.openai.com/envs/#atari) **
+
+
+# G00D LUCK
+
+For doubts email me at:
+atinsaki@gmail.com
